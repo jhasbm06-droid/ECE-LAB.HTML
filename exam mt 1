@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College Website</title>
+</head>
+<body>
+
+    <h1>Welcome to My College Website</h1>
+
+    <h2>Images</h2>
+
+    <table>
+        <tr>
+            <td>
+                <h3>STUDENT</h3>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE28hCUrvKXxeBqerbCL5D4ul7srddA859YLWL1oByrg&s=10"
+                width="250" height="250">
+            </td>
+
+            <td>
+                <h3>FAMILY MEMBER</h3>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30ciC7WbG_THmSOpJSNGmyoxd7E1RICFT_JPkBQGLHw&s=10"
+                width="250" height="250">
+            </td>
+
+            <td>
+                <h3>SPORTSMAN</h3>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNY5YzGHrsPYOoLcojBK7tzYOdJaaPM9imnYyMHVkR-EEp6BrGjYMn0yDfHbzMInecJhg_MbpjMAs7ddQcMb0aaTyygjeg1Uon09B5bUW&s=10"
+                width="250" height="250">
+            </td>
+        </tr>
+    </table>
+
+    <h2>YouTube Videos</h2>
+
+    <iframe width="450" height="250"
+    src="https://www.youtube.com/embed/jVk7hzotuTE">
+    </iframe>
+
+    <iframe width="450" height="250"
+    src="https://www.youtube.com/embed/M_fL4CPGuLY">
+    </iframe>
+
+</body>
+</html>
