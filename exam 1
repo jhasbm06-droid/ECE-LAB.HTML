@@ -1,0 +1,36 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+</head>
+<body>
+
+    <h1>My Webpage</h1>
+
+    <!-- Section 1: My Image -->
+    <h2>My Image</h2>
+    <img src="C:\Users\sandhya\Downloads\Attack on titan ❤️.jfif" alt="My Image" width="200">
+
+    <hr>
+
+    <!-- Section 2: Related Image -->
+    <h2>Related Image</h2>
+    <img src="" alt="Related Image" width="200">
+
+    <hr>
+
+    <!-- Section 3: YouTube Video -->
+    <h2>My YouTube Video</h2>
+
+    <iframe
+        width="400"
+        height="250"
+        src="https://www.youtube.com/embed/VIDEO_ID"
+        title="YouTube Video"
+        allowfullscreen>
+    </iframe>
+
+</body>
+</html>
+```
